@@ -1,0 +1,6 @@
+- Disseny : Ping Pong - GamePad - Barra MegaHit - Clipping Defense - 
+Arms Manage (si perds braç, no pots defensar, etc)
+
+- 3D (Dilluns) : ARMES
+
+- I.A. (Dilluns) : MOLTA FEINA
